@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="gjx"
+  id="myeclipse.1292295210328"
+  context-root="/gjx"
+  j2ee-spec="5.0"
+  archive="gjx.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
